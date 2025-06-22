@@ -1,6 +1,9 @@
 title: Lightbox
+
 author: Arya C. 
+
 description: this project is to create a custom pixel display with speaker! The light should also should be able to adapt with the audio
+
 created: 06/22/2025
 
 
