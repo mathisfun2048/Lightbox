@@ -55,8 +55,8 @@ For these 3 hours I went down a parts rabbithole! Here's an updated BOM for the 
 | PCB (2-layer heavy copper)| 1    | $8.00     | $8.00   |
 | Pi Zero 2W               | 1    | $15.00    | $15.00  |
 | 74AHCT125                | 1    | $0.50     | $0.50   |
-| 1000µF caps (4x)         | 4    | $0.75     | $3.00   |
-| 0.1µF MLCCs (12x)        | 12   | $0.05     | $0.60   |
+| 1000µF EEU-FR1A102         | 4    | $0.75     | $3.00   |
+| 0.1µF MLCCs        | 12   | $0.05     | $0.60   |
 | XT60H-M connector        | 1    | $2.00     | $2.00   |
 | 6A Polyfuse              | 1    | $0.30     | $0.30   |
 | SMBJ5.0A TVS             | 1    | $0.40     | $0.40   |
