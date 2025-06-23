@@ -51,7 +51,7 @@ For these 3 hours I went down a parts rabbithole! Here's an updated BOM for the 
 
 | Component                | Qty  | Unit Cost | Total   |
 |--------------------------|------|-----------|---------|
-| WS2812B                  | 256  | $0.12     | $30.72  |
+| SK6812-Mini-E                  | 256  | $0.12     | $30.72  |
 | PCB (2-layer heavy copper)| 1    | $8.00     | $8.00   |
 | Pi Zero 2W               | 1    | $15.00    | $15.00  |
 | 74AHCT125                | 1    | $0.50     | $0.50   |
