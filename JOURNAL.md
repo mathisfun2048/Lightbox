@@ -68,5 +68,17 @@ For these 3 hours I went down a parts rabbithole! Here's an updated BOM for the 
 ## 10PM->12AM (2 hours)
 I was looking around KiCad docs and found that besides flat sheets, there's another layout called Heirarichal Style which is akin to object oriented programing so I spent hte last 2 hours going down that rabbit hole! I'm going to try to implement it in this project instead of the flat sheet style I used for my Hackpad project (also on github--you should totally check it out). On to making the schematic!
 
+# June 23
+
+## 12AM -> <present>
+
+Currently making the schematic! 
+
+5:39AM -- here's a quick update screenshot for y'all 
+
+
+<img width="749" alt="Screenshot 2025-06-23 at 5 39 40 AM" src="https://github.com/user-attachments/assets/1f92c7af-fbff-451b-97c4-f45826a92536" />
+
+
 
 
