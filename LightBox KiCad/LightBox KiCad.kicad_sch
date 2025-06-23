@@ -1,0 +1,266 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "abfd5b21-46d5-4a7d-ac9f-e61b79b26334")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 49.53 63.5)
+		(size 48.26 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "266cdb56-8970-4708-b004-483f97d20a49")
+		(property "Sheetname" "PWR_IN"
+			(at 49.53 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PWR_IN.kicad_sch"
+			(at 49.53 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LightBox KiCad"
+				(path "/abfd5b21-46d5-4a7d-ac9f-e61b79b26334"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.83 99.06)
+		(size 25.4 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6691ca9a-fb7e-47fe-b2ac-730d3be62e5f")
+		(property "Sheetname" "PI_HDR"
+			(at 36.83 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PI_HDR.kicad_sch"
+			(at 36.83 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LightBox KiCad"
+				(path "/abfd5b21-46d5-4a7d-ac9f-e61b79b26334"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 137.16)
+		(size 17.78 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7ffe8534-8dfd-4552-82ec-bd223a505a98")
+		(property "Sheetname" "TEST_HDR"
+			(at 50.8 136.4484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TEST_HDR.kicad_sch"
+			(at 50.8 155.5246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LightBox KiCad"
+				(path "/abfd5b21-46d5-4a7d-ac9f-e61b79b26334"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 128.27 161.29)
+		(size 24.13 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d6880435-5dc2-4645-aaa1-2b3723c371a6")
+		(property "Sheetname" "RESERVED"
+			(at 128.27 160.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RESERVED.kicad_sch"
+			(at 128.27 175.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LightBox KiCad"
+				(path "/abfd5b21-46d5-4a7d-ac9f-e61b79b26334"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 134.62)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "da548ae6-1646-41a4-918d-3a881af8b4b6")
+		(property "Sheetname" "LED_MATRIX"
+			(at 85.09 133.9084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED_MATRIX.kicad_sch"
+			(at 85.09 139.0146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LightBox KiCad"
+				(path "/abfd5b21-46d5-4a7d-ac9f-e61b79b26334"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 92.71 104.14)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f0123b8f-456d-4b80-8e79-8112cd57432d")
+		(property "Sheetname" "LEVEL_SHIFT"
+			(at 92.71 103.4284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEVEL_SHIFT.kicad_sch"
+			(at 92.71 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LightBox KiCad"
+				(path "/abfd5b21-46d5-4a7d-ac9f-e61b79b26334"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
