@@ -46,3 +46,22 @@ I know that its been a lot of words so far, so here's a visual I sketched up to 
 ![IMG_4877 2](https://github.com/user-attachments/assets/4e15a53c-c225-4a25-a675-7cb84f4d4f93)
 
 
+## 1PM -> 4PM (3 hours)
+For these 3 hours I went down a parts rabbithole! Here's an updated BOM for the LED PCB
+
+- 256x WS2812B LEDs (16x16 grid)
+- 1x Raspberry Pi Zero 2W
+- 1x Level Shifter (74AHCT125 single gate)
+- 4x Bulk Capacitors (1000µF electrolytic - one per quadrant)
+- 8-12x Decoupling Capacitors (0.1µF MLCC - distributed across grid)
+- 1x High-Current Power Connector (XT60H-M)
+- 1x Protection Fuse (6A Polyfuse)
+- 1x TVS Diode (SMBJ5.0A for surge protection)
+- 1x Data Resistor (330Ω for signal integrity)
+- 1x 40-pin Female Header (Pi mounting)
+
+## 10PM->12AM (2 hours)
+I was looking around KiCad docs and found that besides flat sheets, there's another layout called Heirarichal Style which is akin to object oriented programing so I spent hte last 2 hours going down that rabbit hole! I'm going to try to implement it in this project instead of the flat sheet style I used for my Hackpad project (also on github--you should totally check it out). On to making the schematic!
+
+
+
