@@ -61,4 +61,8 @@ For these 3 hours I went down a parts rabbithole! Here's an updated BOM for the 
 - 1x 40-pin Female Header (Pi mounting)
 
 
+## 10PM-> <present>
+making pcb schematic! Will update soon
+
+
 
