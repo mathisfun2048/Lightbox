@@ -60,9 +60,8 @@ For these 3 hours I went down a parts rabbithole! Here's an updated BOM for the 
 - 1x Data Resistor (330Ω for signal integrity)
 - 1x 40-pin Female Header (Pi mounting)
 
-
-## 10PM-> <present>
-making pcb schematic! Will update soon
+## 10PM->12AM (2 hours)
+I was looking around KiCad docs and found that besides flat sheets, there's another layout called Heirarichal Style which is akin to object oriented programing so I spent hte last 2 hours going down that rabbit hole! I'm going to try to implement it in this project instead of the flat sheet style I used for my Hackpad project (also on github--you should totally check it out). On to making the schematic!
 
 
 
