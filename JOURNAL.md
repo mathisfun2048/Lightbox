@@ -82,5 +82,10 @@ Currently making the schematic!
 will resume later, sleepy
 
 
+# June 26 ( 0 hours)
+
+So I started working on a instant camera project and really liked learning how to code the firmware. So as of now, I am shelving this project. Hopefully I can get to this later. It's been a blast learning more about LEDs but I feel I want to creaet something actually usable that will help me with everyday life. Till next time, Arya out. 
+
+
 
 
